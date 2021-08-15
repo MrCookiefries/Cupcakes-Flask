@@ -1,0 +1,12 @@
+img {
+    height: 250px;
+    width: auto;
+}
+
+label {
+    display: block;
+}
+
+li, form {
+    border: 2px solid black;
+}
